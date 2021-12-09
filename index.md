@@ -1,1 +1,1 @@
-# TbCalc release page
+# Release page
